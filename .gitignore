@@ -1,0 +1,3 @@
+node_modules/**/*
+shaboom/node_modules/**/*
+.env
